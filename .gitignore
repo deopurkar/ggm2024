@@ -1,0 +1,5 @@
+*.tex
+*.svg
+*.bbl
+*.gz
+/book/svg-inkscape/
