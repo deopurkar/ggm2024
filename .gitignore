@@ -3,3 +3,9 @@
 *.bbl
 *.gz
 /book/svg-inkscape/
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
